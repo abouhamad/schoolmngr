@@ -1,0 +1,1 @@
+<div>Please <a href="/login">Login</a> to view the teacher directory.</div>

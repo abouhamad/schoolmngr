@@ -1,0 +1,1 @@
+<?php echo @$body; ?><?php /**PATH C:\inetpub\vhosts\abouhamad.net\portal.Alsadeq-Academy.com\public\resources\views/backEnd/email/emailBody.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<div>Please <a href="/login">Login</a> to view the teacher directory.</div><?php /**PATH C:\inetpub\vhosts\abouhamad.net\portal.Alsadeq-Academy.com\public\storage\framework\views/96783534809c07862f91202b9b7cf54f.blade.php ENDPATH**/ ?>

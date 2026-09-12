@@ -1,0 +1,1 @@
+<div>Please <a href="/login">Login</a> to view the this list.</div><?php /**PATH C:\inetpub\vhosts\abouhamad.net\portal.Alsadeq-Academy.com\public\storage\framework\views/0df559f9869dd37d42c2a72dfbb96c1e.blade.php ENDPATH**/ ?>
